@@ -1,0 +1,782 @@
+{
+
+  "outboundFlights": [
+    {
+      "id": 2,
+      "origin": {
+        "code": "ARN",
+        "name": "Stockholm Arlanda"
+      },
+      "destination": {
+        "code": "CDG",
+        "name": "Paris Charles De Gaulle"
+      },
+      "connectionDuration": "02:35:00",
+      "startTimeInLocal": "2017-10-19T07:15:00.000+02:00",
+      "startTimeInGmt": "2017-10-19T05:15:00.000Z",
+      "endTimeInLocal": "2017-10-19T09:50:00.000+02:00",
+      "endTimeInGmt": "2017-10-19T07:50:00.000Z",
+      "stops": 0,
+      "segments": [
+        {
+          "id": 11,
+          "arrivalTerminal": "1",
+          "arrivalDateTimeInLocal": "2017-10-19T09:50:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T07:50:00.000Z",
+          "departureTerminal": "5",
+          "departureDateTimeInLocal": "2017-10-19T07:15:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T05:15:00.000Z",
+          "departureAirport": {
+            "code": "ARN",
+            "name": "Stockholm Arlanda"
+          },
+          "arrivalAirport": {
+            "code": "CDG",
+            "name": "Paris Charles De Gaulle"
+          },
+          "departureCity": {
+            "code": "STO",
+            "name": "Stockholm"
+          },
+          "arrivalCity": {
+            "code": "PAR",
+            "name": "Paris"
+          },
+          "airCraft": {
+            "code": "73H",
+            "name": "Boeing 737-800 (Winglets)"
+          },
+          "flightNumber": "573",
+          "duration": "02:35:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "origin": {
+        "code": "ARN",
+        "name": "Stockholm Arlanda"
+      },
+      "destination": {
+        "code": "CDG",
+        "name": "Paris Charles De Gaulle"
+      },
+      "connectionDuration": "02:30:00",
+      "startTimeInLocal": "2017-10-19T10:40:00.000+02:00",
+      "startTimeInGmt": "2017-10-19T08:40:00.000Z",
+      "endTimeInLocal": "2017-10-19T13:10:00.000+02:00",
+      "endTimeInGmt": "2017-10-19T11:10:00.000Z",
+      "stops": 0,
+      "segments": [
+        {
+          "id": 11,
+          "arrivalTerminal": "1",
+          "arrivalDateTimeInLocal": "2017-10-19T13:10:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T11:10:00.000Z",
+          "departureTerminal": "5",
+          "departureDateTimeInLocal": "2017-10-19T10:40:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T08:40:00.000Z",
+          "departureAirport": {
+            "code": "ARN",
+            "name": "Stockholm Arlanda"
+          },
+          "arrivalAirport": {
+            "code": "CDG",
+            "name": "Paris Charles De Gaulle"
+          },
+          "departureCity": {
+            "code": "STO",
+            "name": "Stockholm"
+          },
+          "arrivalCity": {
+            "code": "PAR",
+            "name": "Paris"
+          },
+          "airCraft": {
+            "code": "736",
+            "name": "Boeing 737-600"
+          },
+          "flightNumber": "571",
+          "duration": "02:30:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "origin": {
+        "code": "ARN",
+        "name": "Stockholm Arlanda"
+      },
+      "destination": {
+        "code": "CDG",
+        "name": "Paris Charles De Gaulle"
+      },
+      "connectionDuration": "02:30:00",
+      "startTimeInLocal": "2017-10-19T16:10:00.000+02:00",
+      "startTimeInGmt": "2017-10-19T14:10:00.000Z",
+      "endTimeInLocal": "2017-10-19T18:40:00.000+02:00",
+      "endTimeInGmt": "2017-10-19T16:40:00.000Z",
+      "stops": 0,
+      "segments": [
+        {
+          "id": 11,
+          "arrivalTerminal": "1",
+          "arrivalDateTimeInLocal": "2017-10-19T18:40:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T16:40:00.000Z",
+          "departureTerminal": "5",
+          "departureDateTimeInLocal": "2017-10-19T16:10:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T14:10:00.000Z",
+          "departureAirport": {
+            "code": "ARN",
+            "name": "Stockholm Arlanda"
+          },
+          "arrivalAirport": {
+            "code": "CDG",
+            "name": "Paris Charles De Gaulle"
+          },
+          "departureCity": {
+            "code": "STO",
+            "name": "Stockholm"
+          },
+          "arrivalCity": {
+            "code": "PAR",
+            "name": "Paris"
+          },
+          "airCraft": {
+            "code": "73H",
+            "name": "Boeing 737-800 (Winglets)"
+          },
+          "flightNumber": "579",
+          "duration": "02:30:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "origin": {
+        "code": "ARN",
+        "name": "Stockholm Arlanda"
+      },
+      "destination": {
+        "code": "CDG",
+        "name": "Paris Charles De Gaulle"
+      },
+      "connectionDuration": "04:15:00",
+      "startTimeInLocal": "2017-10-19T06:05:00.000+02:00",
+      "startTimeInGmt": "2017-10-19T04:05:00.000Z",
+      "endTimeInLocal": "2017-10-19T10:20:00.000+02:00",
+      "endTimeInGmt": "2017-10-19T08:20:00.000Z",
+      "stops": 1,
+      "via": [
+        {
+          "code": "CPH",
+          "name": "Copenhagen",
+          "haltDuration": "01:05:00"
+        }
+      ],
+      "segments": [
+        {
+          "id": 11,
+          "arrivalTerminal": "3",
+          "arrivalDateTimeInLocal": "2017-10-19T07:20:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T05:20:00.000Z",
+          "departureTerminal": "5",
+          "departureDateTimeInLocal": "2017-10-19T06:05:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T04:05:00.000Z",
+          "departureAirport": {
+            "code": "ARN",
+            "name": "Stockholm Arlanda"
+          },
+          "arrivalAirport": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "departureCity": {
+            "code": "STO",
+            "name": "Stockholm"
+          },
+          "arrivalCity": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "airCraft": {
+            "code": "32A",
+            "name": "Airbus Industrie A320 Sharklets"
+          },
+          "flightNumber": "1415",
+          "duration": "01:15:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        },
+        {
+          "id": 12,
+          "arrivalTerminal": "1",
+          "arrivalDateTimeInLocal": "2017-10-19T10:20:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T08:20:00.000Z",
+          "departureTerminal": "3",
+          "departureDateTimeInLocal": "2017-10-19T08:25:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T06:25:00.000Z",
+          "departureAirport": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "arrivalAirport": {
+            "code": "CDG",
+            "name": "Paris Charles De Gaulle"
+          },
+          "departureCity": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "arrivalCity": {
+            "code": "PAR",
+            "name": "Paris"
+          },
+          "airCraft": {
+            "code": "321",
+            "name": "Airbus Industrie A321"
+          },
+          "flightNumber": "565",
+          "duration": "01:55:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "origin": {
+        "code": "ARN",
+        "name": "Stockholm Arlanda"
+      },
+      "destination": {
+        "code": "CDG",
+        "name": "Paris Charles De Gaulle"
+      },
+      "connectionDuration": "04:45:00",
+      "startTimeInLocal": "2017-10-19T08:40:00.000+02:00",
+      "startTimeInGmt": "2017-10-19T06:40:00.000Z",
+      "endTimeInLocal": "2017-10-19T13:25:00.000+02:00",
+      "endTimeInGmt": "2017-10-19T11:25:00.000Z",
+      "stops": 1,
+      "via": [
+        {
+          "code": "OSL",
+          "name": "Oslo All airports",
+          "haltDuration": "01:30:00"
+        }
+      ],
+      "segments": [
+        {
+          "id": 11,
+          "arrivalDateTimeInLocal": "2017-10-19T09:40:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T07:40:00.000Z",
+          "departureTerminal": "5",
+          "departureDateTimeInLocal": "2017-10-19T08:40:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T06:40:00.000Z",
+          "departureAirport": {
+            "code": "ARN",
+            "name": "Stockholm Arlanda"
+          },
+          "arrivalAirport": {
+            "code": "OSL",
+            "name": "Oslo All airports"
+          },
+          "departureCity": {
+            "code": "STO",
+            "name": "Stockholm"
+          },
+          "arrivalCity": {
+            "code": "OSL",
+            "name": "Oslo"
+          },
+          "airCraft": {
+            "code": "738",
+            "name": "Boeing 737-800"
+          },
+          "flightNumber": "847",
+          "duration": "01:00:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        },
+        {
+          "id": 12,
+          "arrivalTerminal": "1",
+          "arrivalDateTimeInLocal": "2017-10-19T13:25:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T11:25:00.000Z",
+          "departureDateTimeInLocal": "2017-10-19T11:10:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T09:10:00.000Z",
+          "departureAirport": {
+            "code": "OSL",
+            "name": "Oslo All airports"
+          },
+          "arrivalAirport": {
+            "code": "CDG",
+            "name": "Paris Charles De Gaulle"
+          },
+          "departureCity": {
+            "code": "OSL",
+            "name": "Oslo"
+          },
+          "arrivalCity": {
+            "code": "PAR",
+            "name": "Paris"
+          },
+          "airCraft": {
+            "code": "73H",
+            "name": "Boeing 737-800 (Winglets)"
+          },
+          "flightNumber": "837",
+          "duration": "02:15:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "origin": {
+        "code": "ARN",
+        "name": "Stockholm Arlanda"
+      },
+      "destination": {
+        "code": "CDG",
+        "name": "Paris Charles De Gaulle"
+      },
+      "connectionDuration": "04:00:00",
+      "startTimeInLocal": "2017-10-19T09:25:00.000+02:00",
+      "startTimeInGmt": "2017-10-19T07:25:00.000Z",
+      "endTimeInLocal": "2017-10-19T13:25:00.000+02:00",
+      "endTimeInGmt": "2017-10-19T11:25:00.000Z",
+      "stops": 1,
+      "via": [
+        {
+          "code": "OSL",
+          "name": "Oslo All airports",
+          "haltDuration": "00:45:00"
+        }
+      ],
+      "segments": [
+        {
+          "id": 11,
+          "arrivalDateTimeInLocal": "2017-10-19T10:25:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T08:25:00.000Z",
+          "departureTerminal": "5",
+          "departureDateTimeInLocal": "2017-10-19T09:25:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T07:25:00.000Z",
+          "departureAirport": {
+            "code": "ARN",
+            "name": "Stockholm Arlanda"
+          },
+          "arrivalAirport": {
+            "code": "OSL",
+            "name": "Oslo All airports"
+          },
+          "departureCity": {
+            "code": "STO",
+            "name": "Stockholm"
+          },
+          "arrivalCity": {
+            "code": "OSL",
+            "name": "Oslo"
+          },
+          "airCraft": {
+            "code": "738",
+            "name": "Boeing 737-800"
+          },
+          "flightNumber": "483",
+          "duration": "01:00:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        },
+        {
+          "id": 12,
+          "arrivalTerminal": "1",
+          "arrivalDateTimeInLocal": "2017-10-19T13:25:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T11:25:00.000Z",
+          "departureDateTimeInLocal": "2017-10-19T11:10:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T09:10:00.000Z",
+          "departureAirport": {
+            "code": "OSL",
+            "name": "Oslo All airports"
+          },
+          "arrivalAirport": {
+            "code": "CDG",
+            "name": "Paris Charles De Gaulle"
+          },
+          "departureCity": {
+            "code": "OSL",
+            "name": "Oslo"
+          },
+          "arrivalCity": {
+            "code": "PAR",
+            "name": "Paris"
+          },
+          "airCraft": {
+            "code": "73H",
+            "name": "Boeing 737-800 (Winglets)"
+          },
+          "flightNumber": "837",
+          "duration": "02:15:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "origin": {
+        "code": "ARN",
+        "name": "Stockholm Arlanda"
+      },
+      "destination": {
+        "code": "CDG",
+        "name": "Paris Charles De Gaulle"
+      },
+      "connectionDuration": "03:45:00",
+      "startTimeInLocal": "2017-10-19T10:55:00.000+02:00",
+      "startTimeInGmt": "2017-10-19T08:55:00.000Z",
+      "endTimeInLocal": "2017-10-19T14:40:00.000+02:00",
+      "endTimeInGmt": "2017-10-19T12:40:00.000Z",
+      "stops": 1,
+      "via": [
+        {
+          "code": "CPH",
+          "name": "Copenhagen",
+          "haltDuration": "00:40:00"
+        }
+      ],
+      "segments": [
+        {
+          "id": 11,
+          "arrivalTerminal": "3",
+          "arrivalDateTimeInLocal": "2017-10-19T12:05:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T10:05:00.000Z",
+          "departureTerminal": "5",
+          "departureDateTimeInLocal": "2017-10-19T10:55:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T08:55:00.000Z",
+          "departureAirport": {
+            "code": "ARN",
+            "name": "Stockholm Arlanda"
+          },
+          "arrivalAirport": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "departureCity": {
+            "code": "STO",
+            "name": "Stockholm"
+          },
+          "arrivalCity": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "airCraft": {
+            "code": "32A",
+            "name": "Airbus Industrie A320 Sharklets"
+          },
+          "flightNumber": "1421",
+          "duration": "01:10:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        },
+        {
+          "id": 12,
+          "arrivalTerminal": "1",
+          "arrivalDateTimeInLocal": "2017-10-19T14:40:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T12:40:00.000Z",
+          "departureTerminal": "3",
+          "departureDateTimeInLocal": "2017-10-19T12:45:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T10:45:00.000Z",
+          "departureAirport": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "arrivalAirport": {
+            "code": "CDG",
+            "name": "Paris Charles De Gaulle"
+          },
+          "departureCity": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "arrivalCity": {
+            "code": "PAR",
+            "name": "Paris"
+          },
+          "airCraft": {
+            "code": "319",
+            "name": "Airbus Industrie A319"
+          },
+          "flightNumber": "567",
+          "duration": "01:55:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "origin": {
+        "code": "ARN",
+        "name": "Stockholm Arlanda"
+      },
+      "destination": {
+        "code": "CDG",
+        "name": "Paris Charles De Gaulle"
+      },
+      "connectionDuration": "04:20:00",
+      "startTimeInLocal": "2017-10-19T13:30:00.000+02:00",
+      "startTimeInGmt": "2017-10-19T11:30:00.000Z",
+      "endTimeInLocal": "2017-10-19T17:50:00.000+02:00",
+      "endTimeInGmt": "2017-10-19T15:50:00.000Z",
+      "stops": 1,
+      "via": [
+        {
+          "code": "CPH",
+          "name": "Copenhagen",
+          "haltDuration": "01:15:00"
+        }
+      ],
+      "segments": [
+        {
+          "id": 11,
+          "arrivalTerminal": "3",
+          "arrivalDateTimeInLocal": "2017-10-19T14:40:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T12:40:00.000Z",
+          "departureTerminal": "5",
+          "departureDateTimeInLocal": "2017-10-19T13:30:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T11:30:00.000Z",
+          "departureAirport": {
+            "code": "ARN",
+            "name": "Stockholm Arlanda"
+          },
+          "arrivalAirport": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "departureCity": {
+            "code": "STO",
+            "name": "Stockholm"
+          },
+          "arrivalCity": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "airCraft": {
+            "code": "32A",
+            "name": "Airbus Industrie A320 Sharklets"
+          },
+          "flightNumber": "1423",
+          "duration": "01:10:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        },
+        {
+          "id": 12,
+          "arrivalTerminal": "1",
+          "arrivalDateTimeInLocal": "2017-10-19T17:50:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T15:50:00.000Z",
+          "departureTerminal": "3",
+          "departureDateTimeInLocal": "2017-10-19T15:55:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T13:55:00.000Z",
+          "departureAirport": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "arrivalAirport": {
+            "code": "CDG",
+            "name": "Paris Charles De Gaulle"
+          },
+          "departureCity": {
+            "code": "CPH",
+            "name": "Copenhagen"
+          },
+          "arrivalCity": {
+            "code": "PAR",
+            "name": "Paris"
+          },
+          "airCraft": {
+            "code": "320",
+            "name": "Airbus Industrie A320"
+          },
+          "flightNumber": "559",
+          "duration": "01:55:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "origin": {
+        "code": "ARN",
+        "name": "Stockholm Arlanda"
+      },
+      "destination": {
+        "code": "CDG",
+        "name": "Paris Charles De Gaulle"
+      },
+      "connectionDuration": "04:20:00",
+      "startTimeInLocal": "2017-10-19T14:30:00.000+02:00",
+      "startTimeInGmt": "2017-10-19T12:30:00.000Z",
+      "endTimeInLocal": "2017-10-19T18:50:00.000+02:00",
+      "endTimeInGmt": "2017-10-19T16:50:00.000Z",
+      "stops": 1,
+      "via": [
+        {
+          "code": "OSL",
+          "name": "Oslo All airports",
+          "haltDuration": "01:10:00"
+        }
+      ],
+      "segments": [
+        {
+          "id": 11,
+          "arrivalDateTimeInLocal": "2017-10-19T15:25:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T13:25:00.000Z",
+          "departureTerminal": "5",
+          "departureDateTimeInLocal": "2017-10-19T14:30:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T12:30:00.000Z",
+          "departureAirport": {
+            "code": "ARN",
+            "name": "Stockholm Arlanda"
+          },
+          "arrivalAirport": {
+            "code": "OSL",
+            "name": "Oslo All airports"
+          },
+          "departureCity": {
+            "code": "STO",
+            "name": "Stockholm"
+          },
+          "arrivalCity": {
+            "code": "OSL",
+            "name": "Oslo"
+          },
+          "airCraft": {
+            "code": "73H",
+            "name": "Boeing 737-800 (Winglets)"
+          },
+          "flightNumber": "867",
+          "duration": "00:55:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        },
+        {
+          "id": 12,
+          "arrivalTerminal": "1",
+          "arrivalDateTimeInLocal": "2017-10-19T18:50:00.000+02:00",
+          "arrivalDateTimeInGmt": "2017-10-19T16:50:00.000Z",
+          "departureDateTimeInLocal": "2017-10-19T16:35:00.000+02:00",
+          "departureDateTimeInGmt": "2017-10-19T14:35:00.000Z",
+          "departureAirport": {
+            "code": "OSL",
+            "name": "Oslo All airports"
+          },
+          "arrivalAirport": {
+            "code": "CDG",
+            "name": "Paris Charles De Gaulle"
+          },
+          "departureCity": {
+            "code": "OSL",
+            "name": "Oslo"
+          },
+          "arrivalCity": {
+            "code": "PAR",
+            "name": "Paris"
+          },
+          "airCraft": {
+            "code": "73G",
+            "name": "Boeing 737-700"
+          },
+          "flightNumber": "839",
+          "duration": "02:15:00",
+          "marketingCarrier": {
+            "code": "SK",
+            "name": "Scandinavian Airlines"
+          },
+          "onTimePerformance": 0.0,
+          "miles": 0,
+          "numberOfStops": 0
+        }
+      ]
+    }
+  ]
+}

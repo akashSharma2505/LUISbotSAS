@@ -1,0 +1,24 @@
+{
+  "name": "luisbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "botbuilder-azure": "^3.0.4",
+    "botbuilder-location": "^2.0.0",
+    "dotenv-extended": "^2.0.1",
+    "needle": "^2.0.1",
+    "node-uuid": "^1.4.8",
+    "restify": "^5.0.0"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "zip-folder": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
